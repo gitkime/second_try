@@ -1,6 +1,6 @@
 second_try
 ==========
-Cousera slidify courseproject
-craete a repository
-create a slidify index.Rmd
-publish the file ti github
+1. Cousera slidify courseproject
+2. create a repository
+3. create a slidify index.Rmd
+4. publish the file ti github
